@@ -19,15 +19,14 @@ Cassandra: Where the processed data will be stored.
 <img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/fce95803-4cdc-4f03-9043-af3a17358188" />
 
 ---
+## Technologies Used
 
-## Technologies
-* Apache Airflow
-* Python
-* Apache Kafka
-* Apache Zookeeper
-* Apache Spark
-* Cassandra
-* PostgreSQL
-* Docker
+* Python: Core language for pipeline logic, API interaction, and Spark transformations.
+* Apache Airflow: Orchestrates the workflow; schedules the data ingestion from the API.
+* Apache Kafka: Distributed message broker that handles real-time data ingestion.
+* Apache Spark (PySpark): Processes the data stream, applies the schema, and transforms the raw JSON.
+* Cassandra: High-performance NoSQL database for final data persistence.
+* PostgreSQL: Backend metadata store for Airflow, ensuring robust task scheduling.
+* Docker & Docker Compose: Containerizes the entire stack for seamless deployment and scalability.
 
 
