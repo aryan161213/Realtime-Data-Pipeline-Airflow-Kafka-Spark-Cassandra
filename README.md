@@ -1,6 +1,3 @@
-<img width="1241" height="812" alt="WhatsApp Image 2026-04-24 at 00 25 16 (5)" src="https://github.com/user-attachments/assets/2fa1e5a2-9fe7-44cc-965d-0185734e6541" /># Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra
-
-
 ## OVERVIEW
 A real-time data engineering pipeline that fetches user data from a random API, orchestrates ingestion with Airflow, streams through Kafka, processes with PySpark, and stores in Cassandra—all containerized using Docker.
 
