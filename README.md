@@ -12,23 +12,21 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 * **Scalable NoSQL Storage**: Finalized the pipeline by persisting high-volume processed data into Apache Cassandra, enabling low-latency lookups and high-availability storage for downstream analytics.
 
 
-
-
-
-The project is designed with the following components:
-
-**Data Source**: We use randomuser.me API to generate random user data for our pipeline.
-**Apache Airflow**: Responsible for orchestrating the pipeline and storing fetched data in a PostgreSQL database.
-**Apache Kafka and Zookeeper**: Used for streaming data from PostgreSQL to the processing engine.
-**Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
-**Apache Spark**: For data processing with its master and worker nodes.
-**Cassandra**: Where the processed data will be stored.
-
 ---
 
 ## System Architecture
 
 <img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/fce95803-4cdc-4f03-9043-af3a17358188" />
+
+The project is designed with the following components:
+
+* **Data Source**: We use randomuser.me API to generate random user data for our pipeline.
+* **Apache Airflow**: Responsible for orchestrating the pipeline and storing fetched data in a PostgreSQL database.
+* **Apache Kafka and Zookeeper**: Used for streaming data from PostgreSQL to the processing engine.
+* **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
+* **Apache Spark**: For data processing with its master and worker nodes.
+* **Cassandra**: Where the processed data will be stored.
+
 
 ---
 ## Technologies Used
