@@ -79,7 +79,8 @@ Follow these steps to get the pipeline up and running.
                           Run **SELECT * FROM spark_streams.created_users;**
 
 * 5. To Clone the Repository
-                          Run **git clone [https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git](https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git)**
+
+                         Run **git clone [https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git](https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git)**
 
                           Run **cd Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra**
   
