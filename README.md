@@ -17,6 +17,7 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 ## System Architecture
 
 <img width="3274" height="1221" alt="Data engineering architecture" src="https://github.com/user-attachments/assets/fce95803-4cdc-4f03-9043-af3a17358188" />
+
 ### **Core Components**
 
 * **Data Source**: Utilizing the Random User API to generate high-fidelity, mock user profiles in JSON format.
