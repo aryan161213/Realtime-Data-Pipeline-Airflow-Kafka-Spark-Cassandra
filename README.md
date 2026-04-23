@@ -21,7 +21,7 @@ Cassandra: Where the processed data will be stored.
 ---
 
 ## Technologies
-Apache Airflow
+**Apache Airflow
 Python
 Apache Kafka
 Apache Zookeeper
