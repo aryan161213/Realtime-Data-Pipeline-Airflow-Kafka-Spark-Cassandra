@@ -4,6 +4,7 @@
 - [System Architecture](#system-architecture)
 - [Core Components](#core-components)
 - [Technologies Used](#technologies-used)
+- [How to Run](#how-to-run)
 - [Key Features](#key-features)
 - [Project Workflow](#project-workflow)
 - [Images](#images)
