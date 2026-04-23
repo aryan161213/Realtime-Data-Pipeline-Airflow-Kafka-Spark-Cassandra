@@ -39,4 +39,14 @@ The project is designed with the following components:
 * **PostgreSQL**: Backend metadata store for Airflow, ensuring robust task scheduling.
 * **Docker & Docker Compose**: Containerizes the entire stack for seamless deployment and scalability.
 
+---
+
+## Key Features
+
+* **Fault-Tolerant Streaming**: The pipeline is designed to handle node failures (Kafka Brokers or Spark Workers) without data loss.
+* **Schema Governance**: Uses Schema Registry to prevent "poison pills" (malformed data) from crashing the Spark processing layer.
+* **Scalable Distributed Computing**: A dedicated Spark Master manages multiple workers, allowing the system to scale horizontally as data volume grows.
+* **Real-Time Monitoring**: Integrated dashboards via Kafka Control Center allow for tracking consumer lag and system health.
+* **Microservices Orchestration**: Fully containerized stack enabling one-command deployment of 7+ interconnected services.
+
 
