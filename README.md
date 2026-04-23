@@ -57,7 +57,7 @@ Follow these steps to get the pipeline up and running.
 * 1. Spin up the Infrastructure
   Use Docker Compose to pull and start all 7+ services (Airflow, Kafka, Spark, Cassandra, etc.):
 
-                          docker-compose up -d
+                          docker compose up -d
 
 * 2. Trigger the Ingestion
   Access the Airflow Web UI at localhost:8080 and Ensure the user_automation DAG is enabled and has been triggered to start streaming data into the     Kafka topic.
