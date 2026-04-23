@@ -49,4 +49,13 @@ The project is designed with the following components:
 * **Real-Time Monitoring**: Integrated dashboards via Kafka Control Center allow for tracking consumer lag and system health.
 * **Microservices Orchestration**: Fully containerized stack enabling one-command deployment of 7+ interconnected services.
 
+---
+
+## Project Workflow
+* **Ingestion & Orchestration**: Apache Airflow triggers a Python-based ingestion task, fetching raw JSON payloads from the Random User API.
+* **Messaging & Buffering**: The raw data is produced into an Apache Kafka topic (users_created). Zookeeper ensures the cluster state is synchronized across brokers.
+* **Stream Governance**: The Schema Registry validates the incoming data format, ensuring compatibility with downstream consumers.
+* **Distributed Processing**: An Apache Spark Master detects the new stream, distributing processing tasks to Spark Workers that apply a strictly defined schema to the raw JSON.
+* **Persistence**: The cleaned, structured data is "sunk" into an Apache Cassandra keyspace, making it immediately available for analytical queries.
+
 
