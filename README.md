@@ -1,7 +1,7 @@
 # Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra
 A real-time data engineering pipeline that fetches user data from a random API, orchestrates ingestion with Airflow, streams through Kafka, processes with PySpark, and stores in Cassandra—all containerized using Docker.
 
-INTRODUCTION
+## INTRODUCTION
 The project is designed with the following components:
 
 Data Source: We use randomuser.me API to generate random user data for our pipeline.
@@ -11,12 +11,14 @@ Control Center and Schema Registry: Helps in monitoring and schema management of
 Apache Spark: For data processing with its master and worker nodes.
 Cassandra: Where the processed data will be stored.
 
-System Architecture
+---
+
+## System Architecture
 
 
 
 
-Technologies
+## Technologies
 Apache Airflow
 Python
 Apache Kafka
