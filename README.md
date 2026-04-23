@@ -54,7 +54,7 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 Follow these steps to get the pipeline up and running.
 
-*   1.Spin up the Infrastructure
+* 1. Spin up the Infrastructure
   Use Docker Compose to pull and start all 7+ services (Airflow, Kafka, Spark, Cassandra, etc.):
 
   Run **docker-compose up -d**
