@@ -63,72 +63,76 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 <img width="1477" height="924" alt="WhatsApp Image 2026-04-24 at 00 25 16" src="https://github.com/user-attachments/assets/99ee29d6-b93a-4bbb-ab0f-abea92a4ab8b" />
 
+---
+
 <img width="1600" height="1012" alt="WhatsApp Image 2026-04-24 at 00 25 16 (1)" src="https://github.com/user-attachments/assets/3fd3c776-ca17-4a2c-bfba-b18f55b0d21a" />
 
+---
 <img width="1600" height="959" alt="WhatsApp Image 2026-04-24 at 00 25 16 (2)" src="https://github.com/user-attachments/assets/4abfa45c-1970-4b9f-8815-9813c0e9e257" />
 
-
-
-
-
-
-kafka broker image ↓
-
+---
 
 <img width="1241" height="812" alt="WhatsApp Image 2026-04-24 at 00 25 16 (5)" src="https://github.com/user-attachments/assets/b97a235c-e1fa-4dcc-b066-5d53701fea17" />
 
+---
 
 <img width="1241" height="807" alt="WhatsApp Image 2026-04-24 at 00 25 16 (6)" src="https://github.com/user-attachments/assets/ae5a0ea4-5f2d-470f-b358-8dbf1d00b124" />
 
-
+---
 
 <img width="1380" height="904" alt="WhatsApp Image 2026-04-24 at 00 25 16 (7)" src="https://github.com/user-attachments/assets/6b702193-eccd-4f3d-958c-9e51dcb8737b" />
 
-
-
-
-
+---
 
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 03" src="https://github.com/user-attachments/assets/3381d1c5-d761-4b0e-904f-7e8a07455da3" />
 
+---
+
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 06" src="https://github.com/user-attachments/assets/787a1f24-dc96-4cdd-947a-eef6025a01f8" />
+
+---
 
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 06 (1)" src="https://github.com/user-attachments/assets/5c2b29c1-426f-4fa6-8cd6-faaefc6f2ac8" />
 
+---
+
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 04" src="https://github.com/user-attachments/assets/87fe4a97-cdd2-44bf-850a-c01b2dbd0f0c" />
 
-Scheduler ↓
+---
 
 <img width="1596" height="908" alt="WhatsApp Image 2026-04-23 at 23 58 51" src="https://github.com/user-attachments/assets/9585b066-ac1f-43cf-a0ff-20ce4bc2df6a" />
 
+---
 
 <img width="1094" height="692" alt="WhatsApp Image 2026-04-24 at 00 25 16 (3)" src="https://github.com/user-attachments/assets/769688e1-f1c0-477f-a14d-da15fd4ce58c" />
 
-
-
-
-
-
-
-
-Docker compose ↓
-
+---
 
 <img width="1600" height="1012" alt="WhatsApp Image 2026-04-24 at 00 03 17" src="https://github.com/user-attachments/assets/c4f0b37d-3e64-467f-8626-a2033b0edd8e" />
 
+---
+
 <img width="1600" height="1031" alt="WhatsApp Image 2026-04-24 at 00 03 17 (1)" src="https://github.com/user-attachments/assets/eb546371-c0b2-4cbb-9494-5a66882d621e" />
+
+---
 
 <img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 13 03" src="https://github.com/user-attachments/assets/4ec42fd6-2d5f-4df2-a2aa-fa23ef7ee32d" />
 
+---
+
 <img width="2560" height="1662" alt="WhatsApp Image 2026-04-24 at 00 12 38 (1)" src="https://github.com/user-attachments/assets/d5795342-12d3-472a-9b99-ab64673177aa" />
 
+---
 <img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 12 38 (2)" src="https://github.com/user-attachments/assets/9ab9a0b6-772d-4144-999b-6d5af2d1ff67" />
 
+---
 
 <img width="1600" height="959" alt="WhatsApp Image 2026-04-24 at 00 25 16 (2)" src="https://github.com/user-attachments/assets/e5ba099d-28e8-448e-a496-e4e69d3dcc00" />
 
+---
 
 <img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 25 16 (4)" src="https://github.com/user-attachments/assets/5b2fafa7-1271-4974-b238-2ec79e5be5a9" />
 
+---
 
 
