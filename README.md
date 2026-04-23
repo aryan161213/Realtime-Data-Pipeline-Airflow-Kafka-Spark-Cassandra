@@ -57,7 +57,7 @@ Follow these steps to get the pipeline up and running.
 * 1. Spin up the Infrastructure
   Use Docker Compose to pull and start all 7+ services (Airflow, Kafka, Spark, Cassandra, etc.):
 
-  Run **docker-compose up -d**
+                          Run **docker-compose up -d**
 
 * 2. Trigger the Ingestion
   Access the Airflow Web UI at localhost:8080 and Ensure the user_automation DAG is enabled and has been triggered to start streaming data into the     Kafka topic.
@@ -65,23 +65,23 @@ Follow these steps to get the pipeline up and running.
 * 3. Run the Spark Processing Job
   Once the data is flowing in Kafka, initialize the Spark streaming job to transform and sink the data into Cassandra:
 
-  Run **python spark_stream.py**
+                          Run **python spark_stream.py**
 
   Note: Wait for the console to confirm that the Keyspace and Table structures have been successfully created.
 
 * 4. Verify Data in Cassandra
   To verify that the data has successfully arrived in the NoSQL sink, enter the Cassandra terminal Using:
 
-  **docker exec -it cassandra cqlsh -u cassandra -p cassandra localhost 9042**
+                          Run **docker exec -it cassandra cqlsh -u cassandra -p cassandra localhost 9042**
 
   Once inside cqlsh, run the following query:
 
-  **SELECT * FROM spark_streams.created_users;**
+                          Run **SELECT * FROM spark_streams.created_users;**
 
 * 5. To Clone the Repository
-Run
-**git clone [https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git](https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git)**
-**cd Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra**
+                          Run **git clone [https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git](https://github.com/aryan161213/Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra.git)**
+
+                          Run **cd Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra**
   
 ## Key Features
 
