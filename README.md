@@ -68,9 +68,6 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 <img width="1600" height="1012" alt="WhatsApp Image 2026-04-24 at 00 25 16 (1)" src="https://github.com/user-attachments/assets/3fd3c776-ca17-4a2c-bfba-b18f55b0d21a" />
 
 ---
-<img width="1600" height="959" alt="WhatsApp Image 2026-04-24 at 00 25 16 (2)" src="https://github.com/user-attachments/assets/4abfa45c-1970-4b9f-8815-9813c0e9e257" />
-
----
 
 <img width="1241" height="812" alt="WhatsApp Image 2026-04-24 at 00 25 16 (5)" src="https://github.com/user-attachments/assets/b97a235c-e1fa-4dcc-b066-5d53701fea17" />
 
