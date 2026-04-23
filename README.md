@@ -80,6 +80,25 @@ kafka broker image ↓
 
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 06 (1)" src="https://github.com/user-attachments/assets/5c2b29c1-426f-4fa6-8cd6-faaefc6f2ac8" />
 
+<img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 04" src="https://github.com/user-attachments/assets/87fe4a97-cdd2-44bf-850a-c01b2dbd0f0c" />
+
+Scheduler ↓
+
+<img width="1596" height="908" alt="WhatsApp Image 2026-04-23 at 23 58 51" src="https://github.com/user-attachments/assets/9585b066-ac1f-43cf-a0ff-20ce4bc2df6a" />
+
+
+Docker compose ↓
+
+
+<img width="1600" height="1012" alt="WhatsApp Image 2026-04-24 at 00 03 17" src="https://github.com/user-attachments/assets/c4f0b37d-3e64-467f-8626-a2033b0edd8e" />
+
+<img width="1600" height="1031" alt="WhatsApp Image 2026-04-24 at 00 03 17 (1)" src="https://github.com/user-attachments/assets/eb546371-c0b2-4cbb-9494-5a66882d621e" />
+
+<img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 13 03" src="https://github.com/user-attachments/assets/4ec42fd6-2d5f-4df2-a2aa-fa23ef7ee32d" />
+
+<img width="2560" height="1662" alt="WhatsApp Image 2026-04-24 at 00 12 38 (1)" src="https://github.com/user-attachments/assets/d5795342-12d3-472a-9b99-ab64673177aa" />
+
+<img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 12 38 (2)" src="https://github.com/user-attachments/assets/9ab9a0b6-772d-4144-999b-6d5af2d1ff67" />
 
 
 
