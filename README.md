@@ -4,12 +4,12 @@
 ## OVERVIEW
 A real-time data engineering pipeline that fetches user data from a random API, orchestrates ingestion with Airflow, streams through Kafka, processes with PySpark, and stores in Cassandra—all containerized using Docker.
 
-**End-to-End Real-Time Pipeline**:Built a robust data engineering pipeline that simulates a production environment, transforming raw API data into structured, queryable insights in seconds.
-**Decoupled Distributed Architecture**: Leveraged a microservices-based approach where each component (Ingestion, Messaging, Processing, and Storage) is isolated within Docker containers, ensuring system resilience and easy scalability.
-**High-Velocity Ingestion**: Implemented Apache Airflow to orchestrate seamless data retrieval, using PostgreSQL as a reliable metadata backbone to track pipeline health and task execution.
-**Reliable Stream Management**: Utilized Apache Kafka paired with Zookeeper for high-throughput event streaming, incorporating Confluent Schema Registry to enforce data contracts and Control Center for real-time observability.
-**Distributed Computing Power**: Engineered a Spark Master-Worker cluster to handle parallelized data transformations, converting complex JSON payloads into cleaned, schema-validated formats at scale.
-**Scalable NoSQL Storage**: Finalized the pipeline by persisting high-volume processed data into Apache Cassandra, enabling low-latency lookups and high-availability storage for downstream analytics.
+* **End-to-End Real-Time Pipeline**:Built a robust data engineering pipeline that simulates a production environment, transforming raw API data into structured, queryable insights in seconds.
+* **Decoupled Distributed Architecture**: Leveraged a microservices-based approach where each component (Ingestion, Messaging, Processing, and Storage) is isolated within Docker containers, ensuring system resilience and easy scalability.
+* **High-Velocity Ingestion**: Implemented Apache Airflow to orchestrate seamless data retrieval, using PostgreSQL as a reliable metadata backbone to track pipeline health and task execution.
+* **Reliable Stream Management**: Utilized Apache Kafka paired with Zookeeper for high-throughput event streaming, incorporating Confluent Schema Registry to enforce data contracts and Control Center for real-time observability.
+* **Distributed Computing Power**: Engineered a Spark Master-Worker cluster to handle parallelized data transformations, converting complex JSON payloads into cleaned, schema-validated formats at scale.
+* **Scalable NoSQL Storage**: Finalized the pipeline by persisting high-volume processed data into Apache Cassandra, enabling low-latency lookups and high-availability storage for downstream analytics.
 
 
 
