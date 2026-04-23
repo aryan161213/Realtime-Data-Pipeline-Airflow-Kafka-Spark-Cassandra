@@ -1,4 +1,4 @@
-# Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra
+<img width="1241" height="812" alt="WhatsApp Image 2026-04-24 at 00 25 16 (5)" src="https://github.com/user-attachments/assets/2fa1e5a2-9fe7-44cc-965d-0185734e6541" /># Realtime-Data-Pipeline-Airflow-Kafka-Spark-Cassandra
 
 
 ## OVERVIEW
@@ -64,8 +64,11 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 ## Images
 
+<img width="1477" height="924" alt="WhatsApp Image 2026-04-24 at 00 25 16" src="https://github.com/user-attachments/assets/99ee29d6-b93a-4bbb-ab0f-abea92a4ab8b" />
 
+<img width="1600" height="1012" alt="WhatsApp Image 2026-04-24 at 00 25 16 (1)" src="https://github.com/user-attachments/assets/3fd3c776-ca17-4a2c-bfba-b18f55b0d21a" />
 
+<img width="1600" height="959" alt="WhatsApp Image 2026-04-24 at 00 25 16 (2)" src="https://github.com/user-attachments/assets/4abfa45c-1970-4b9f-8815-9813c0e9e257" />
 
 
 
@@ -73,6 +76,21 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 
 kafka broker image ↓
+
+
+<img width="1241" height="812" alt="WhatsApp Image 2026-04-24 at 00 25 16 (5)" src="https://github.com/user-attachments/assets/b97a235c-e1fa-4dcc-b066-5d53701fea17" />
+
+
+<img width="1241" height="807" alt="WhatsApp Image 2026-04-24 at 00 25 16 (6)" src="https://github.com/user-attachments/assets/ae5a0ea4-5f2d-470f-b358-8dbf1d00b124" />
+
+
+
+<img width="1380" height="904" alt="WhatsApp Image 2026-04-24 at 00 25 16 (7)" src="https://github.com/user-attachments/assets/6b702193-eccd-4f3d-958c-9e51dcb8737b" />
+
+
+
+
+
 
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 03" src="https://github.com/user-attachments/assets/3381d1c5-d761-4b0e-904f-7e8a07455da3" />
 
@@ -85,6 +103,15 @@ kafka broker image ↓
 Scheduler ↓
 
 <img width="1596" height="908" alt="WhatsApp Image 2026-04-23 at 23 58 51" src="https://github.com/user-attachments/assets/9585b066-ac1f-43cf-a0ff-20ce4bc2df6a" />
+
+
+<img width="1094" height="692" alt="WhatsApp Image 2026-04-24 at 00 25 16 (3)" src="https://github.com/user-attachments/assets/769688e1-f1c0-477f-a14d-da15fd4ce58c" />
+
+
+
+
+
+
 
 
 Docker compose ↓
@@ -100,6 +127,11 @@ Docker compose ↓
 
 <img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 12 38 (2)" src="https://github.com/user-attachments/assets/9ab9a0b6-772d-4144-999b-6d5af2d1ff67" />
 
+
+<img width="1600" height="959" alt="WhatsApp Image 2026-04-24 at 00 25 16 (2)" src="https://github.com/user-attachments/assets/e5ba099d-28e8-448e-a496-e4e69d3dcc00" />
+
+
+<img width="1600" height="1039" alt="WhatsApp Image 2026-04-24 at 00 25 16 (4)" src="https://github.com/user-attachments/assets/5b2fafa7-1271-4974-b238-2ec79e5be5a9" />
 
 
 
