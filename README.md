@@ -60,4 +60,22 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 * **Distributed Processing**: An Apache Spark Master detects the new stream, distributing processing tasks to Spark Workers that apply a strictly defined schema to the raw JSON.
 * **Persistence**: The cleaned, structured data is "sunk" into an Apache Cassandra keyspace, making it immediately available for analytical queries.
 
+---
+
+## Images
+
+
+
+
+
+
+
+
+
+kafka broker image 
+
+<img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 03" src="https://github.com/user-attachments/assets/3381d1c5-d761-4b0e-904f-7e8a07455da3" />
+↓ 
+
+
 
