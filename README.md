@@ -22,7 +22,7 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 * **Data Source**: Utilizing the Random User API to generate high-fidelity, mock user profiles in JSON format.
 * **Orchestration**: Apache Airflow serves as the pipeline's backbone, managing task dependencies and scheduling, with PostgreSQL maintaining the state and metadata.
 * **Stream Ingestion**: Apache Kafka (managed by Zookeeper) handles the high-throughput ingestion, decoupling the API source from the processing engine.
-* **Governance & Monitoring:**: Schema Registry enforces data contracts between producers and consumers, while the Control Center provides a centralized UI for cluster observability.
+* **Governance & Monitoring**: Schema Registry enforces data contracts between producers and consumers, while the Control Center provides a centralized UI for cluster observability.
 * **Distributed Processing**: Apache Spark utilizes a Master-Worker cluster to perform real-time, parallelized data transformations.
 * **Data Sink**: Apache Cassandra acts as the final distributed storage layer, optimized for high-speed writes and scalable querying.
 
