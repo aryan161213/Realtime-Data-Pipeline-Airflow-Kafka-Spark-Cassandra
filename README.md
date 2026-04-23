@@ -21,12 +21,12 @@ Cassandra: Where the processed data will be stored.
 ---
 ## Technologies Used
 
-* Python: Core language for pipeline logic, API interaction, and Spark transformations.
-* Apache Airflow: Orchestrates the workflow; schedules the data ingestion from the API.
-* Apache Kafka: Distributed message broker that handles real-time data ingestion.
-* Apache Spark (PySpark): Processes the data stream, applies the schema, and transforms the raw JSON.
-* Cassandra: High-performance NoSQL database for final data persistence.
-* PostgreSQL: Backend metadata store for Airflow, ensuring robust task scheduling.
-* Docker & Docker Compose: Containerizes the entire stack for seamless deployment and scalability.
+* **Python**: Core language for pipeline logic, API interaction, and Spark transformations.
+* **Apache Airflow**: Orchestrates the workflow; schedules the data ingestion from the API.
+* **Apache Kafka**: Distributed message broker that handles real-time data ingestion.
+* **Apache Spark**: Processes the data stream, applies the schema, and transforms the raw JSON.
+* **Cassandra**: High-performance NoSQL database for final data persistence.
+* **PostgreSQL**: Backend metadata store for Airflow, ensuring robust task scheduling.
+* **Docker & Docker Compose**: Containerizes the entire stack for seamless deployment and scalability.
 
 
