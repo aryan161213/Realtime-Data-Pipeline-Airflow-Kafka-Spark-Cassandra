@@ -72,10 +72,15 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 
 
-kafka broker image 
+kafka broker image ↓
 
 <img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 03" src="https://github.com/user-attachments/assets/3381d1c5-d761-4b0e-904f-7e8a07455da3" />
-↓ 
+
+<img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 06" src="https://github.com/user-attachments/assets/787a1f24-dc96-4cdd-947a-eef6025a01f8" />
+
+<img width="1280" height="831" alt="WhatsApp Image 2026-04-23 at 23 52 06 (1)" src="https://github.com/user-attachments/assets/5c2b29c1-426f-4fa6-8cd6-faaefc6f2ac8" />
+
+
 
 
 
