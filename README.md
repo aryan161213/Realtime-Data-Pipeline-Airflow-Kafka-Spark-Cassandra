@@ -32,7 +32,7 @@ A real-time data engineering pipeline that fetches user data from a random API, 
 
 ### **Core Components**
 
-* **Data Source**: Utilizing the Random User API to generate high-fidelity, mock user profiles in JSON format.
+* **Data Source**: Utilizing the REST API (Random User API) to generate high-fidelity, mock user profiles in JSON format.
 * **Orchestration**: Apache Airflow serves as the pipeline's backbone, managing task dependencies and scheduling, with PostgreSQL maintaining the state and metadata.
 * **Stream Ingestion**: Apache Kafka (managed by Zookeeper) handles the high-throughput ingestion, decoupling the API source from the processing engine.
 * **Governance & Monitoring**: Schema Registry enforces data contracts between producers and consumers, while the Control Center provides a centralized UI for cluster observability.
